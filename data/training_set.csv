@@ -1,0 +1,201 @@
+name,industry,employees,email,linkedin,location,website,tags,score
+Veltrix Ltd,Blockchain,500-1000,contact@veltrixltd.solutions,,Singapore,https://veltrixltd.solutions,"scale-up, AI",56
+Finverse Ltd,EdTech,201-500,contact@finverseltd.systems,https://linkedin.com/company/finverseltd,Toronto,https://finverseltd.systems,funded,79
+Bluemind Group,Biotech,1000+,contact@bluemindgroup.systems,https://linkedin.com/company/bluemindgroup,Berlin,https://bluemindgroup.systems,"remote, enterprise, growth, open roles",63
+Hireflow Labs,Fintech,201-500,contact@hireflowlabs.solutions,https://linkedin.com/company/hireflowlabs,Toronto,https://hireflowlabs.solutions,"AI, scale-up, open roles, remote",63
+Quantivo Inc,Cybersecurity,11-50,contact@quantivoinc.corp,https://linkedin.com/company/quantivoinc,Singapore,https://quantivoinc.corp,enterprise,75
+Omnidata Group,Education,11-50,contact@omnidatagroup.global,https://linkedin.com/company/omnidatagroup,Jakarta,https://omnidatagroup.global,funded,82
+Omnidata Inc,Healthcare,500-1000,contact@omnidatainc.solutions,https://linkedin.com/company/omnidatainc,Singapore,https://omnidatainc.solutions,"growth, AI, hiring, enterprise",82
+Zentrix,Cybersecurity,11-50,contact@zentrix.systems,,Singapore,https://zentrix.systems,"scale-up, remote",56
+Healthiq Ltd,Blockchain,500-1000,,,London,https://healthiqltd.corp,"remote, funded",66
+Bluemind Labs,Cybersecurity,500-1000,contact@bluemindlabs.tech,https://linkedin.com/company/bluemindlabs,London,https://bluemindlabs.tech,"scale-up, hiring",68
+Finverse,Education,51-200,contact@finverse.global,https://linkedin.com/company/finverse,Singapore,https://finverse.global,open roles,63
+Brainify,SaaS,51-200,contact@brainify.systems,https://linkedin.com/company/brainify,San Francisco,https://brainify.systems,"hiring, scale-up, remote, enterprise",64
+Auralink Labs,Education,1000+,contact@auralinklabs.tech,https://linkedin.com/company/auralinklabs,San Francisco,https://auralinklabs.tech,"funded, open roles, hiring, remote",87
+Veltrix Group,Fintech,201-500,contact@veltrixgroup.corp,https://linkedin.com/company/veltrixgroup,Singapore,https://veltrixgroup.corp,"AI, enterprise, funded, open roles",91
+Nexora Inc,Education,51-200,contact@nexorainc.systems,https://linkedin.com/company/nexorainc,San Francisco,https://nexorainc.systems,"scale-up, funded",78
+Zentrix,Fintech,51-200,contact@zentrix.global,https://linkedin.com/company/zentrix,Toronto,https://zentrix.global,"growth, enterprise, AI, open roles",72
+Brainify Ltd,SaaS,201-500,contact@brainifyltd.corp,https://linkedin.com/company/brainifyltd,London,https://brainifyltd.corp,"hiring, remote",58
+Finverse Ltd,Cybersecurity,500-1000,contact@finverseltd.corp,,Toronto,https://finverseltd.corp,remote,61
+Zentrix Inc,EdTech,51-200,contact@zentrixinc.systems,https://linkedin.com/company/zentrixinc,Berlin,https://zentrixinc.systems,remote,67
+Leapstack Inc,Blockchain,500-1000,contact@leapstackinc.corp,https://linkedin.com/company/leapstackinc,Tokyo,https://leapstackinc.corp,funded,71
+Bluemind Group,E-commerce,11-50,contact@bluemindgroup.global,https://linkedin.com/company/bluemindgroup,San Francisco,https://bluemindgroup.global,growth,68
+Veltrix,SaaS,11-50,contact@veltrix.tech,,New York,https://veltrix.tech,"AI, enterprise, remote, open roles",56
+Healthiq Labs,Healthcare,201-500,contact@healthiqlabs.solutions,https://linkedin.com/company/healthiqlabs,San Francisco,https://healthiqlabs.solutions,"enterprise, growth",67
+Finverse Labs,Biotech,11-50,contact@finverselabs.corp,https://linkedin.com/company/finverselabs,Tokyo,https://finverselabs.corp,"scale-up, AI, growth, remote",71
+Luminex Labs,EdTech,51-200,contact@luminexlabs.corp,https://linkedin.com/company/luminexlabs,Singapore,https://luminexlabs.corp,"open roles, enterprise",65
+Leapstack Inc,Green Energy,201-500,contact@leapstackinc.systems,https://linkedin.com/company/leapstackinc,Jakarta,https://leapstackinc.systems,"remote, AI, funded, growth",81
+Codexa Labs,Education,1000+,contact@codexalabs.tech,https://linkedin.com/company/codexalabs,Toronto,https://codexalabs.tech,"funded, AI, remote",87
+Veltrix Inc,Cybersecurity,51-200,,https://linkedin.com/company/veltrixinc,Tokyo,https://veltrixinc.corp,"funded, scale-up, remote, growth",68
+Brainify Labs,Green Energy,1-10,contact@brainifylabs.systems,,London,https://brainifylabs.systems,"enterprise, scale-up, growth, remote",67
+SynapseX Labs,Education,11-50,contact@synapsexlabs.global,,London,https://synapsexlabs.global,,62
+Zentrix Inc,Education,11-50,contact@zentrixinc.corp,,Tokyo,https://zentrixinc.corp,"AI, hiring",62
+Leapstack Labs,SaaS,51-200,,https://linkedin.com/company/leapstacklabs,Tokyo,https://leapstacklabs.solutions,"scale-up, open roles, growth",55
+Auralink,Biotech,201-500,contact@auralink.solutions,https://linkedin.com/company/auralink,Singapore,https://auralink.solutions,,76
+Quantivo,Cybersecurity,11-50,contact@quantivo.corp,https://linkedin.com/company/quantivo,Jakarta,https://quantivo.corp,"growth, funded, AI",87
+Finverse Inc,Fintech,500-1000,contact@finverseinc.corp,,Toronto,https://finverseinc.corp,"scale-up, remote, open roles",62
+Brainify Labs,EdTech,500-1000,contact@brainifylabs.solutions,https://linkedin.com/company/brainifylabs,San Francisco,https://brainifylabs.solutions,AI,79
+Auralink Ltd,Healthcare,51-200,contact@auralinkltd.solutions,https://linkedin.com/company/auralinkltd,Toronto,https://auralinkltd.solutions,"scale-up, AI, hiring, growth",71
+Quantivo Group,Fintech,1-10,contact@quantivogroup.global,,Tokyo,https://quantivogroup.global,scale-up,66
+SynapseX Labs,E-commerce,201-500,contact@synapsexlabs.solutions,https://linkedin.com/company/synapsexlabs,San Francisco,https://synapsexlabs.solutions,"AI, open roles",80
+Quantivo Ltd,SaaS,1000+,,https://linkedin.com/company/quantivoltd,Tokyo,https://quantivoltd.systems,,65
+Auralink,Education,51-200,contact@auralink.tech,https://linkedin.com/company/auralink,London,https://auralink.tech,,75
+Healthiq Labs,Education,1000+,contact@healthiqlabs.solutions,,San Francisco,https://healthiqlabs.solutions,,55
+Leapstack Group,EdTech,1-10,contact@leapstackgroup.global,,Singapore,https://leapstackgroup.global,"remote, enterprise",51
+Bluemind Ltd,Fintech,1000+,contact@bluemindltd.global,https://linkedin.com/company/bluemindltd,Berlin,https://bluemindltd.global,"enterprise, scale-up, AI, hiring",78
+SynapseX Inc,Fintech,1000+,contact@synapsexinc.systems,https://linkedin.com/company/synapsexinc,New York,https://synapsexinc.systems,"hiring, growth",58
+Auralink,Cybersecurity,1000+,contact@auralink.tech,https://linkedin.com/company/auralink,Berlin,https://auralink.tech,"remote, enterprise",70
+Quantivo,SaaS,1000+,contact@quantivo.corp,https://linkedin.com/company/quantivo,Toronto,https://quantivo.corp,"AI, open roles",81
+Auralink Ltd,EdTech,500-1000,,https://linkedin.com/company/auralinkltd,Jakarta,https://auralinkltd.corp,"open roles, funded, scale-up, growth",67
+Healthiq Labs,Education,1000+,contact@healthiqlabs.tech,https://linkedin.com/company/healthiqlabs,San Francisco,https://healthiqlabs.tech,,60
+Bluemind Labs,EdTech,51-200,contact@bluemindlabs.solutions,https://linkedin.com/company/bluemindlabs,London,https://bluemindlabs.solutions,"enterprise, remote, scale-up, hiring",60
+Nexora Labs,Healthcare,1000+,contact@nexoralabs.global,,Berlin,https://nexoralabs.global,enterprise,51
+Quantivo,Education,201-500,contact@quantivo.systems,https://linkedin.com/company/quantivo,Berlin,https://quantivo.systems,open roles,63
+Leapstack,Biotech,1-10,contact@leapstack.tech,,Berlin,https://leapstack.tech,funded,58
+Codexa Labs,Fintech,51-200,contact@codexalabs.tech,https://linkedin.com/company/codexalabs,London,https://codexalabs.tech,"scale-up, hiring, growth",61
+Finverse Inc,Green Energy,51-200,contact@finverseinc.systems,https://linkedin.com/company/finverseinc,Berlin,https://finverseinc.systems,"hiring, remote",71
+Finverse Inc,Cybersecurity,51-200,contact@finverseinc.tech,https://linkedin.com/company/finverseinc,Jakarta,https://finverseinc.tech,,62
+SynapseX Group,Cybersecurity,500-1000,contact@synapsexgroup.systems,https://linkedin.com/company/synapsexgroup,New York,https://synapsexgroup.systems,,58
+Hireflow Inc,EdTech,51-200,contact@hireflowinc.systems,https://linkedin.com/company/hireflowinc,Toronto,https://hireflowinc.systems,"remote, funded, AI",76
+Zentrix Ltd,E-commerce,1000+,contact@zentrixltd.tech,,Singapore,https://zentrixltd.tech,AI,59
+Omnidata Inc,Fintech,201-500,contact@omnidatainc.tech,https://linkedin.com/company/omnidatainc,Tokyo,https://omnidatainc.tech,"growth, open roles, remote, funded",71
+Healthiq Group,Blockchain,11-50,,https://linkedin.com/company/healthiqgroup,London,https://healthiqgroup.tech,"scale-up, hiring",67
+Bluemind Labs,Education,500-1000,,,Tokyo,https://bluemindlabs.corp,"growth, scale-up, open roles, hiring",57
+Hireflow,E-commerce,201-500,contact@hireflow.corp,https://linkedin.com/company/hireflow,Toronto,https://hireflow.corp,"open roles, scale-up, growth, hiring",75
+Omnidata Group,EdTech,11-50,contact@omnidatagroup.solutions,,San Francisco,https://omnidatagroup.solutions,"hiring, scale-up, funded",69
+Auralink Inc,EdTech,1000+,contact@auralinkinc.systems,https://linkedin.com/company/auralinkinc,Berlin,https://auralinkinc.systems,remote,62
+Auralink Ltd,Green Energy,201-500,contact@auralinkltd.tech,https://linkedin.com/company/auralinkltd,Tokyo,https://auralinkltd.tech,,66
+Veltrix Labs,SaaS,11-50,contact@veltrixlabs.tech,https://linkedin.com/company/veltrixlabs,Berlin,https://veltrixlabs.tech,"growth, AI",74
+Brainify Group,Biotech,11-50,,,Singapore,https://brainifygroup.tech,remote,50
+Veltrix,Cybersecurity,1-10,contact@veltrix.solutions,,Toronto,https://veltrix.solutions,AI,68
+Hireflow,Blockchain,201-500,contact@hireflow.systems,,Singapore,https://hireflow.systems,"enterprise, AI, remote, funded",76
+Brainify,Biotech,11-50,contact@brainify.corp,,Berlin,https://brainify.corp,,57
+Finverse Group,SaaS,11-50,contact@finversegroup.global,,Jakarta,https://finversegroup.global,"growth, open roles, enterprise, scale-up",52
+Auralink Inc,Cybersecurity,1000+,contact@auralinkinc.corp,https://linkedin.com/company/auralinkinc,San Francisco,https://auralinkinc.corp,"funded, growth, AI",82
+Luminex Group,Cybersecurity,201-500,contact@luminexgroup.tech,,London,https://luminexgroup.tech,"enterprise, AI, open roles",56
+Brainify Inc,Cybersecurity,500-1000,contact@brainifyinc.tech,,Tokyo,https://brainifyinc.tech,,63
+Quantivo Ltd,Education,11-50,contact@quantivoltd.global,https://linkedin.com/company/quantivoltd,Toronto,https://quantivoltd.global,"AI, enterprise",63
+Luminex Labs,Education,11-50,contact@luminexlabs.corp,,Jakarta,https://luminexlabs.corp,"AI, open roles, hiring, enterprise",64
+Omnidata Ltd,Blockchain,11-50,contact@omnidataltd.global,https://linkedin.com/company/omnidataltd,Toronto,https://omnidataltd.global,AI,72
+Leapstack Inc,Healthcare,1-10,contact@leapstackinc.solutions,https://linkedin.com/company/leapstackinc,London,https://leapstackinc.solutions,AI,66
+Auralink Inc,E-commerce,1-10,contact@auralinkinc.solutions,https://linkedin.com/company/auralinkinc,Toronto,https://auralinkinc.solutions,"hiring, remote",58
+Zentrix Ltd,SaaS,500-1000,,https://linkedin.com/company/zentrixltd,Toronto,https://zentrixltd.solutions,"AI, growth, scale-up",64
+Quantivo Ltd,Cybersecurity,201-500,contact@quantivoltd.corp,https://linkedin.com/company/quantivoltd,London,https://quantivoltd.corp,open roles,62
+Nexora Inc,Education,11-50,contact@nexorainc.systems,,Singapore,https://nexorainc.systems,open roles,59
+Nexora Labs,SaaS,11-50,contact@nexoralabs.systems,https://linkedin.com/company/nexoralabs,Toronto,https://nexoralabs.systems,scale-up,76
+Brainify Inc,Blockchain,51-200,contact@brainifyinc.corp,,Berlin,https://brainifyinc.corp,"AI, hiring, scale-up",68
+Quantivo Labs,EdTech,1-10,contact@quantivolabs.global,https://linkedin.com/company/quantivolabs,Toronto,https://quantivolabs.global,"scale-up, hiring",58
+Hireflow Labs,SaaS,51-200,,https://linkedin.com/company/hireflowlabs,London,https://hireflowlabs.corp,"scale-up, enterprise",66
+Zentrix,Blockchain,1-10,contact@zentrix.systems,https://linkedin.com/company/zentrix,Toronto,https://zentrix.systems,growth,72
+Auralink Group,E-commerce,51-200,contact@auralinkgroup.systems,https://linkedin.com/company/auralinkgroup,London,https://auralinkgroup.systems,"remote, growth, funded",82
+Leapstack Ltd,Cybersecurity,500-1000,contact@leapstackltd.corp,https://linkedin.com/company/leapstackltd,San Francisco,https://leapstackltd.corp,"scale-up, growth, enterprise, hiring",61
+Leapstack Ltd,Fintech,1000+,contact@leapstackltd.solutions,,Jakarta,https://leapstackltd.solutions,"hiring, remote",54
+Healthiq Labs,SaaS,51-200,contact@healthiqlabs.solutions,,New York,https://healthiqlabs.solutions,"open roles, hiring, remote, scale-up",57
+Bluemind Ltd,Healthcare,1-10,contact@bluemindltd.solutions,https://linkedin.com/company/bluemindltd,Jakarta,https://bluemindltd.solutions,"funded, growth, hiring",71
+Hireflow Labs,SaaS,51-200,contact@hireflowlabs.corp,,Singapore,https://hireflowlabs.corp,open roles,58
+Finverse Ltd,Green Energy,201-500,contact@finverseltd.corp,https://linkedin.com/company/finverseltd,Tokyo,https://finverseltd.corp,"funded, enterprise, open roles",73
+Bluemind Group,Biotech,201-500,contact@bluemindgroup.corp,,London,https://bluemindgroup.corp,,53
+Hireflow,SaaS,1000+,contact@hireflow.global,https://linkedin.com/company/hireflow,Berlin,https://hireflow.global,"open roles, enterprise, AI",69
+Brainify Labs,Fintech,500-1000,contact@brainifylabs.systems,https://linkedin.com/company/brainifylabs,Jakarta,https://brainifylabs.systems,"open roles, scale-up, remote, growth",71
+Finverse Inc,Blockchain,1-10,contact@finverseinc.global,,Tokyo,https://finverseinc.global,,49
+Veltrix Group,Blockchain,500-1000,contact@veltrixgroup.tech,https://linkedin.com/company/veltrixgroup,Tokyo,https://veltrixgroup.tech,"growth, remote, hiring, AI",81
+Quantivo,Green Energy,201-500,contact@quantivo.systems,,New York,https://quantivo.systems,,64
+SynapseX Labs,E-commerce,500-1000,contact@synapsexlabs.global,,Berlin,https://synapsexlabs.global,"remote, scale-up",54
+Brainify Labs,Blockchain,1-10,,https://linkedin.com/company/brainifylabs,Singapore,https://brainifylabs.global,"hiring, scale-up, funded",68
+Leapstack,SaaS,1000+,contact@leapstack.tech,,London,https://leapstack.tech,"AI, funded, growth, enterprise",71
+Auralink Group,Green Energy,11-50,contact@auralinkgroup.systems,https://linkedin.com/company/auralinkgroup,San Francisco,https://auralinkgroup.systems,,68
+Quantivo Group,Blockchain,51-200,contact@quantivogroup.corp,,Singapore,https://quantivogroup.corp,hiring,60
+Brainify Ltd,Cybersecurity,500-1000,contact@brainifyltd.systems,https://linkedin.com/company/brainifyltd,Jakarta,https://brainifyltd.systems,,65
+Finverse Labs,Education,1000+,contact@finverselabs.solutions,,Toronto,https://finverselabs.solutions,"growth, scale-up",62
+Auralink Ltd,Healthcare,11-50,contact@auralinkltd.tech,https://linkedin.com/company/auralinkltd,Jakarta,https://auralinkltd.tech,"scale-up, enterprise, remote",77
+Zentrix Ltd,Biotech,1-10,contact@zentrixltd.corp,https://linkedin.com/company/zentrixltd,Berlin,https://zentrixltd.corp,"funded, open roles",87
+Luminex Ltd,SaaS,51-200,contact@luminexltd.corp,,Tokyo,https://luminexltd.corp,hiring,54
+Nexora Labs,Fintech,1-10,contact@nexoralabs.solutions,https://linkedin.com/company/nexoralabs,London,https://nexoralabs.solutions,"remote, enterprise, hiring, growth",73
+Nexora Group,Fintech,1-10,contact@nexoragroup.corp,https://linkedin.com/company/nexoragroup,Singapore,https://nexoragroup.corp,enterprise,70
+Quantivo Group,Education,500-1000,,,San Francisco,https://quantivogroup.corp,"open roles, enterprise, remote",42
+SynapseX,EdTech,500-1000,,https://linkedin.com/company/synapsex,Singapore,https://synapsex.solutions,"open roles, remote, growth, AI",62
+Luminex Ltd,EdTech,500-1000,contact@luminexltd.systems,https://linkedin.com/company/luminexltd,Tokyo,https://luminexltd.systems,"hiring, remote, growth, enterprise",70
+Zentrix Group,EdTech,1-10,contact@zentrixgroup.systems,https://linkedin.com/company/zentrixgroup,London,https://zentrixgroup.systems,growth,72
+Veltrix Group,Green Energy,500-1000,contact@veltrixgroup.corp,https://linkedin.com/company/veltrixgroup,Toronto,https://veltrixgroup.corp,remote,65
+SynapseX Ltd,Cybersecurity,201-500,contact@synapsexltd.global,,Toronto,https://synapsexltd.global,"enterprise, AI",66
+Healthiq Group,EdTech,201-500,contact@healthiqgroup.corp,,Tokyo,https://healthiqgroup.corp,"open roles, remote, hiring, scale-up",54
+Finverse Ltd,Fintech,1-10,contact@finverseltd.solutions,https://linkedin.com/company/finverseltd,Tokyo,https://finverseltd.solutions,"growth, remote",76
+SynapseX,SaaS,1-10,contact@synapsex.global,,Berlin,https://synapsex.global,"open roles, remote, funded",70
+SynapseX,Blockchain,11-50,contact@synapsex.solutions,,Jakarta,https://synapsex.solutions,"funded, growth, hiring",74
+Veltrix Ltd,Blockchain,500-1000,contact@veltrixltd.tech,https://linkedin.com/company/veltrixltd,New York,https://veltrixltd.tech,"open roles, enterprise",73
+Nexora Labs,SaaS,201-500,contact@nexoralabs.corp,,Berlin,https://nexoralabs.corp,open roles,67
+Brainify Ltd,Fintech,201-500,contact@brainifyltd.tech,,Toronto,https://brainifyltd.tech,"remote, AI, funded, open roles",68
+Luminex,EdTech,1000+,,https://linkedin.com/company/luminex,Tokyo,https://luminex.tech,"remote, scale-up, AI",72
+SynapseX,E-commerce,1-10,contact@synapsex.systems,https://linkedin.com/company/synapsex,New York,https://synapsex.systems,"remote, AI",72
+Veltrix Ltd,Blockchain,51-200,contact@veltrixltd.tech,https://linkedin.com/company/veltrixltd,New York,https://veltrixltd.tech,hiring,77
+Luminex,Blockchain,201-500,contact@luminex.corp,,Berlin,https://luminex.corp,"enterprise, AI, hiring",53
+Nexora Labs,Healthcare,1000+,contact@nexoralabs.corp,https://linkedin.com/company/nexoralabs,Singapore,https://nexoralabs.corp,"AI, enterprise, open roles, hiring",71
+Nexora,Biotech,1-10,contact@nexora.corp,,Jakarta,https://nexora.corp,"remote, open roles, enterprise, funded",75
+Quantivo Inc,Blockchain,1000+,,,Berlin,https://quantivoinc.tech,remote,39
+Omnidata Inc,Green Energy,500-1000,contact@omnidatainc.global,,New York,https://omnidatainc.global,,51
+Luminex Inc,Fintech,201-500,,https://linkedin.com/company/luminexinc,Berlin,https://luminexinc.tech,"AI, enterprise",67
+Brainify Inc,Biotech,11-50,contact@brainifyinc.solutions,https://linkedin.com/company/brainifyinc,Jakarta,https://brainifyinc.solutions,"funded, scale-up, AI",78
+Quantivo Inc,Cybersecurity,11-50,contact@quantivoinc.corp,,Singapore,https://quantivoinc.corp,"remote, hiring",61
+Nexora Ltd,Fintech,11-50,,https://linkedin.com/company/nexoraltd,Tokyo,https://nexoraltd.systems,"hiring, remote, enterprise, funded",67
+Leapstack Ltd,Blockchain,201-500,,,London,https://leapstackltd.systems,,49
+Bluemind Ltd,Healthcare,500-1000,,,Toronto,https://bluemindltd.systems,"hiring, remote, AI, funded",63
+Codexa Ltd,EdTech,51-200,contact@codexaltd.tech,,San Francisco,https://codexaltd.tech,,52
+Luminex Ltd,E-commerce,500-1000,contact@luminexltd.global,,San Francisco,https://luminexltd.global,,62
+Bluemind Ltd,Fintech,11-50,contact@bluemindltd.corp,,Tokyo,https://bluemindltd.corp,,67
+Bluemind Ltd,E-commerce,1000+,contact@bluemindltd.global,https://linkedin.com/company/bluemindltd,Toronto,https://bluemindltd.global,"open roles, remote",61
+Bluemind Group,Education,11-50,contact@bluemindgroup.tech,https://linkedin.com/company/bluemindgroup,Tokyo,https://bluemindgroup.tech,"AI, growth, hiring, remote",71
+Quantivo Labs,Fintech,1000+,contact@quantivolabs.solutions,https://linkedin.com/company/quantivolabs,San Francisco,https://quantivolabs.solutions,remote,65
+Veltrix Group,Cybersecurity,51-200,contact@veltrixgroup.tech,https://linkedin.com/company/veltrixgroup,Toronto,https://veltrixgroup.tech,"funded, enterprise, growth, scale-up",79
+Codexa,Healthcare,500-1000,contact@codexa.systems,https://linkedin.com/company/codexa,Tokyo,https://codexa.systems,"enterprise, remote",60
+Hireflow Labs,Healthcare,51-200,contact@hireflowlabs.tech,https://linkedin.com/company/hireflowlabs,Berlin,https://hireflowlabs.tech,"growth, remote, scale-up",75
+Healthiq,Cybersecurity,201-500,contact@healthiq.tech,https://linkedin.com/company/healthiq,London,https://healthiq.tech,"remote, growth",68
+Luminex Group,Healthcare,1000+,contact@luminexgroup.solutions,https://linkedin.com/company/luminexgroup,Toronto,https://luminexgroup.solutions,,70
+Brainify Inc,Green Energy,51-200,contact@brainifyinc.corp,,Toronto,https://brainifyinc.corp,"open roles, enterprise, growth",59
+Zentrix Labs,SaaS,201-500,contact@zentrixlabs.solutions,https://linkedin.com/company/zentrixlabs,Berlin,https://zentrixlabs.solutions,"open roles, remote, AI",77
+Leapstack Inc,Green Energy,201-500,contact@leapstackinc.systems,,New York,https://leapstackinc.systems,"growth, AI, enterprise, scale-up",66
+Quantivo Labs,SaaS,1-10,contact@quantivolabs.corp,https://linkedin.com/company/quantivolabs,London,https://quantivolabs.corp,open roles,75
+SynapseX Group,SaaS,201-500,contact@synapsexgroup.corp,,London,https://synapsexgroup.corp,"hiring, remote, open roles",63
+Veltrix Group,Fintech,11-50,contact@veltrixgroup.solutions,https://linkedin.com/company/veltrixgroup,Singapore,https://veltrixgroup.solutions,"open roles, funded, scale-up, growth",84
+Healthiq Ltd,Cybersecurity,201-500,contact@healthiqltd.systems,https://linkedin.com/company/healthiqltd,San Francisco,https://healthiqltd.systems,"hiring, scale-up, AI, funded",79
+Auralink Group,Biotech,201-500,contact@auralinkgroup.corp,https://linkedin.com/company/auralinkgroup,San Francisco,https://auralinkgroup.corp,"scale-up, hiring, enterprise",74
+Luminex Group,Green Energy,51-200,contact@luminexgroup.solutions,https://linkedin.com/company/luminexgroup,Singapore,https://luminexgroup.solutions,open roles,68
+Bluemind Inc,Fintech,201-500,contact@bluemindinc.corp,https://linkedin.com/company/bluemindinc,Berlin,https://bluemindinc.corp,hiring,68
+Auralink Group,Green Energy,51-200,contact@auralinkgroup.systems,https://linkedin.com/company/auralinkgroup,Berlin,https://auralinkgroup.systems,remote,77
+Nexora,Green Energy,201-500,contact@nexora.systems,,Berlin,https://nexora.systems,,52
+SynapseX Ltd,Biotech,1000+,contact@synapsexltd.global,https://linkedin.com/company/synapsexltd,New York,https://synapsexltd.global,"remote, enterprise, hiring",73
+Leapstack Inc,Green Energy,11-50,contact@leapstackinc.corp,https://linkedin.com/company/leapstackinc,Tokyo,https://leapstackinc.corp,"AI, enterprise",65
+Veltrix Group,Fintech,500-1000,contact@veltrixgroup.tech,https://linkedin.com/company/veltrixgroup,London,https://veltrixgroup.tech,"funded, remote, open roles, AI",91
+Healthiq Labs,Cybersecurity,500-1000,contact@healthiqlabs.corp,https://linkedin.com/company/healthiqlabs,Jakarta,https://healthiqlabs.corp,"funded, enterprise, AI",83
+Quantivo Labs,Blockchain,51-200,contact@quantivolabs.corp,https://linkedin.com/company/quantivolabs,Singapore,https://quantivolabs.corp,"scale-up, funded, growth, AI",87
+Omnidata Group,Blockchain,1-10,contact@omnidatagroup.systems,https://linkedin.com/company/omnidatagroup,Tokyo,https://omnidatagroup.systems,,62
+SynapseX Ltd,EdTech,201-500,,https://linkedin.com/company/synapsexltd,Tokyo,https://synapsexltd.tech,,48
+Omnidata Group,SaaS,51-200,contact@omnidatagroup.solutions,https://linkedin.com/company/omnidatagroup,London,https://omnidatagroup.solutions,funded,77
+Quantivo,SaaS,500-1000,contact@quantivo.global,https://linkedin.com/company/quantivo,Tokyo,https://quantivo.global,enterprise,59
+Finverse Group,Biotech,500-1000,contact@finversegroup.solutions,,Singapore,https://finversegroup.solutions,"scale-up, AI, growth",65
+Omnidata Group,Green Energy,500-1000,contact@omnidatagroup.tech,https://linkedin.com/company/omnidatagroup,London,https://omnidatagroup.tech,"scale-up, AI, enterprise",82
+Leapstack Ltd,Biotech,51-200,contact@leapstackltd.global,https://linkedin.com/company/leapstackltd,Tokyo,https://leapstackltd.global,"open roles, growth, enterprise",63
+Healthiq,Fintech,51-200,contact@healthiq.solutions,https://linkedin.com/company/healthiq,Toronto,https://healthiq.solutions,"enterprise, growth",69
+Codexa Labs,Healthcare,1000+,contact@codexalabs.systems,https://linkedin.com/company/codexalabs,Tokyo,https://codexalabs.systems,"enterprise, growth, scale-up, open roles",61
+Veltrix Inc,Biotech,201-500,contact@veltrixinc.tech,,Toronto,https://veltrixinc.tech,hiring,48
+Omnidata Labs,Education,201-500,contact@omnidatalabs.tech,https://linkedin.com/company/omnidatalabs,New York,https://omnidatalabs.tech,"remote, open roles, hiring, AI",63
+Auralink,Healthcare,11-50,contact@auralink.corp,https://linkedin.com/company/auralink,San Francisco,https://auralink.corp,"growth, hiring, scale-up",69
+Healthiq Labs,Education,1-10,contact@healthiqlabs.systems,,Tokyo,https://healthiqlabs.systems,,65
+Zentrix Group,Education,11-50,contact@zentrixgroup.solutions,https://linkedin.com/company/zentrixgroup,San Francisco,https://zentrixgroup.solutions,"AI, enterprise, scale-up",82
+Hireflow,Green Energy,201-500,contact@hireflow.tech,,Berlin,https://hireflow.tech,growth,67
+Quantivo,SaaS,1000+,,https://linkedin.com/company/quantivo,Berlin,https://quantivo.global,"remote, scale-up, hiring",52
+Bluemind,Blockchain,201-500,contact@bluemind.systems,https://linkedin.com/company/bluemind,Singapore,https://bluemind.systems,,61
+Leapstack,Education,1-10,contact@leapstack.tech,,London,https://leapstack.tech,"hiring, funded, remote",68
+Leapstack Labs,Blockchain,11-50,,https://linkedin.com/company/leapstacklabs,Jakarta,https://leapstacklabs.corp,"enterprise, remote",52
+SynapseX,Fintech,51-200,contact@synapsex.corp,https://linkedin.com/company/synapsex,Berlin,https://synapsex.corp,"hiring, enterprise, AI",68
+SynapseX,EdTech,1000+,contact@synapsex.global,https://linkedin.com/company/synapsex,Singapore,https://synapsex.global,scale-up,61
+Veltrix Inc,SaaS,11-50,contact@veltrixinc.global,,Toronto,https://veltrixinc.global,,59
+Codexa Inc,Healthcare,201-500,contact@codexainc.tech,https://linkedin.com/company/codexainc,Jakarta,https://codexainc.tech,"open roles, remote",76
+Bluemind Inc,Biotech,11-50,contact@bluemindinc.solutions,https://linkedin.com/company/bluemindinc,New York,https://bluemindinc.solutions,"scale-up, AI",66
+Luminex Inc,Education,11-50,contact@luminexinc.systems,,Singapore,https://luminexinc.systems,growth,60
+Bluemind Ltd,Blockchain,1000+,contact@bluemindltd.tech,,Jakarta,https://bluemindltd.tech,"scale-up, growth, hiring",64
+Bluemind Ltd,Fintech,11-50,contact@bluemindltd.systems,,London,https://bluemindltd.systems,AI,54
+SynapseX Inc,Blockchain,500-1000,contact@synapsexinc.tech,,Tokyo,https://synapsexinc.tech,"enterprise, scale-up, hiring, AI",54
+Codexa Group,Fintech,201-500,contact@codexagroup.solutions,https://linkedin.com/company/codexagroup,Jakarta,https://codexagroup.solutions,,67
+Veltrix Inc,Blockchain,51-200,contact@veltrixinc.tech,,Toronto,https://veltrixinc.tech,"AI, open roles",55
+Brainify Inc,Green Energy,201-500,contact@brainifyinc.solutions,https://linkedin.com/company/brainifyinc,Jakarta,https://brainifyinc.solutions,,58
+Veltrix Ltd,Blockchain,201-500,,https://linkedin.com/company/veltrixltd,New York,https://veltrixltd.tech,"AI, enterprise, open roles",58
